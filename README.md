@@ -1,10 +1,12 @@
-# A collection of react apps
+# React Sample App
 
-## 01 Social App
+A collection of react sample apps
+
+## 01 Social App
 
 React MUI Social App
 
-Features :
+**features**
 
-* Sticky Navbar / Sidebar
-* Switch Theme Mode (Light / Dark)
+- Sticky Navbar / Sidebar
+- Switch Theme Mode (Light / Dark)
