@@ -4,9 +4,17 @@ A collection of react sample apps
 
 ## 01 Social App
 
-React MUI Social App inspired by [Lama Dev tutorial](https://www.youtube.com/watch?v=fzxEECHnsvU)
+React MUI Social App inspired by [Lama Dev](https://www.youtube.com/watch?v=fzxEECHnsvU)
 
 **features**
 
 - Sticky Navbar / Sidebar
 - Switch Theme Mode (Light / Dark)
+
+## 02 Estate App
+
+React MUI Estate App inspired by [Frontend Zone](https://www.youtube.com/watch?v=KUXYjaPnr6g)
+
+**features**
+
+- Mobile Menu using MUI Drawer

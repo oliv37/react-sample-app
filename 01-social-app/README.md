@@ -2,7 +2,7 @@
 
 Social App Home Page
 
-This project is inspired by [Lama Dev tutorial](https://www.youtube.com/watch?v=fzxEECHnsvU)
+This project is inspired by [Lama Dev](https://www.youtube.com/watch?v=fzxEECHnsvU)
 
 ## Install
 
